@@ -1,0 +1,706 @@
+
+i.icon.icon-myicon {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/cours.png");
+}
+i.icon.icon-julie {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/julie.png");
+       border-radius: 6px;
+}
+i.icon.icon-paul {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/paul.png");
+       border-radius: 6px;
+}
+i.icon.icon-romain {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/romain.png");
+       border-radius: 6px;
+}
+i.icon.medicaments {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/medicaments.png");
+}
+
+i.icon.entrainement {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/sentrainer.png");
+}
+
+
+
+i.icon.log_s1 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_s1.png");
+    border-radius: 6px;
+}
+
+i.icon.log_s2 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_s2.png");
+    border-radius: 6px;
+}
+
+i.icon.log_s3 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_s3.png");
+    border-radius: 6px;
+}
+
+i.icon.log_s4 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_s4.png");
+    border-radius: 6px;
+}
+
+i.icon.log_s5 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_s5.png");
+    border-radius: 6px;
+}
+
+i.icon.log_s6 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_s6.png");
+    border-radius: 6px;
+}
+
+
+i.icon.log_11 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_11.png");
+     border-radius: 6px;
+}
+i.icon.log_12 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_12.png");
+    border-radius: 6px;
+}
+
+i.icon.log_13 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_13.png");
+    border-radius: 6px;
+}
+
+i.icon.log_21 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_21.png");
+    border-radius: 6px;
+}
+
+i.icon.log_22 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_22.png");
+    border-radius: 6px;
+}
+i.icon.log_23 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_23.png");
+    border-radius: 6px;
+}
+i.icon.log_24 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_24.png");
+    border-radius: 6px;
+}
+i.icon.log_26 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_26.png");
+    border-radius: 6px;
+}
+i.icon.log_31 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_31.png");
+    border-radius: 6px;
+}
+i.icon.log_32 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_32.png");
+    border-radius: 6px;
+}
+i.icon.log_41 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_41.png");
+    border-radius: 6px;
+}
+
+i.icon.log_42 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_42.png");
+    border-radius: 6px;
+}
+
+i.icon.log_43 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_43.png");
+    border-radius: 6px;
+}
+
+i.icon.log_44 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_44.png");
+    border-radius: 6px;
+}
+i.icon.log_45 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_45.png");
+    border-radius: 6px;
+}
+i.icon.log_61 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_61.png");
+    border-radius: 6px;
+}
+i.icon.log_210 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_210.png");
+    border-radius: 6px;
+}
+i.icon.log_211 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_211.png");
+    border-radius: 6px;
+}
+
+i.icon.log_61 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_61.png");
+    border-radius: 6px;
+}
+i.icon.log_51 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_51.png");
+    border-radius: 6px;
+}
+
+
+i.icon.log_julie {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/julie.png");
+    border-radius: 6px;
+}
+i.icon.log_paul {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/paul.png");
+    border-radius: 6px;
+}
+i.icon.log_romain {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/romain.png");
+    border-radius: 6px;
+}
+i.icon.log_1 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_1.png");
+    border-radius: 6px;
+}
+i.icon.log_2 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_2.png");
+    border-radius: 6px;
+}
+i.icon.log_3 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_3.png");
+    border-radius: 6px;
+}
+i.icon.log_4 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_4.png");
+    border-radius: 6px;
+}
+i.icon.log_5 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_5.png");
+    border-radius: 6px;
+}
+i.icon.log_6 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_6.png");
+    border-radius: 6px;
+}
+i.icon.log_7 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_7.png");
+    border-radius: 6px;
+}
+i.icon.log_8 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_8.png");
+    border-radius: 6px;
+}
+i.icon.log_9 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_9.png");
+    border-radius: 6px;
+}
+
+i.icon.log_010 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_010.png");
+    border-radius: 6px;
+}
+i.icon.log_011 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_011.png");
+    border-radius: 6px;
+}
+i.icon.log_012 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_012.png");
+    border-radius: 6px;
+}
+i.icon.log_013 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_013.png");
+    border-radius: 6px;
+}
+i.icon.log_014 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_014.png");
+    border-radius: 6px;
+}
+i.icon.log_015 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_015.png");
+    border-radius: 6px;
+}
+i.icon.log_016 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_016.png");
+    border-radius: 6px;
+}
+i.icon.log_017 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_017.png");
+    border-radius: 6px;
+}
+i.icon.log_018 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_018.png");
+    border-radius: 6px;
+}
+
+i.icon.log_46 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_46.png");
+    border-radius: 6px;
+}
+i.icon.log_25 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_25.png");
+    border-radius: 6px;
+}
+i.icon.log_28 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_28.png");
+    border-radius: 6px;
+}
+i.icon.log_33 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_33.png");
+    border-radius: 6px;
+}
+
+i.icon.log_27 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_27.png");
+    border-radius: 6px;
+}
+i.icon.log_34 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_34.png");
+    border-radius: 6px;
+}
+i.icon.log_35 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_35.png");
+    border-radius: 6px;
+}
+i.icon.log_000 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_000.png");
+    border-radius: 6px;
+}
+i.icon.log_29 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_29.png");
+    border-radius: 6px;
+}i.icon.log_47 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_47.png");
+    border-radius: 6px;
+}i.icon.log_57 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_57.png");
+    border-radius: 6px;
+}
+i.icon.log_48 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_48.png");
+    border-radius: 6px;
+}
+i.icon.log_56 {
+    width: 29px;
+    height: 29px;
+    background-image: url("../img/log_56.png");
+    border-radius: 6px;
+}
+
+
+
+i.icon.latmenu_facebook {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x.png");
+}
+i.icon.latmenu_medicaments {
+    width: 35px;
+    height: 35px;
+     border-radius: 6px;
+    background-image: url("../img/x2.png");
+}
+i.icon.latmenu_enveloppe {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x3.png");
+}
+i.icon.latmenu_ampoule {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x4.png");
+}
+i.icon.latmenu_dossier {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x5.png");
+}
+i.icon.latmenu_bulle {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x6.png");
+}
+i.icon.latmenu_cible {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x7.png");
+}
+i.icon.latmenu_hopital {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x8.png");
+}
+i.icon.latmenu_labo {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x9.png");
+}
+i.icon.latmenu_medecin {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/x10.png");
+}
+
+
+i.icon.latmenu_accueil {
+    width: 35px;
+    height: 35px;
+        border-radius: 6px;
+    background-image: url("../img/accueil.png");
+}
+
+
+
+
+
+
+
+
+
+ /****************************************************************************************/
+ /****************************** mes modifs/accueil.html *********************************/
+ .haut {
+    width:100%;
+    height:37%;
+}
+.milieu1 {
+    width:100%;
+    height:17%;
+}
+.milieu2 {
+    width:100%;
+    height:17%;
+}
+
+.bas {
+    width:100%;
+    height:17%;
+}
+.column.left {
+    width: 58%;
+    height: 100%;
+    float: left;
+}
+
+.column.right {
+    width: 40%;
+    height: 97.5%;
+    float: right;
+}
+.column.gauche {
+    width: 22%;
+    height: 100%;
+    float: left;
+}
+.column.gauche2 {
+    width: 76%;
+    height: 100%;
+    float: left;
+}
+.column.milieu {
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.column.droite {
+    width: 76%;
+    height: 100%;
+    float: right;
+}
+.column.droite2 {
+    width: 22%;
+    height: 100%;
+    float: right;
+}
+.ligne {
+    width: 100%;
+    height: 100%;
+}
+ .banierePub {
+    width:100%;
+    height:10%;
+}
+.mcdo.pubAccueil {
+    width:100%;
+    height:10%;
+    margin-right:0;
+    margin-left:0;
+    padding-right:0;
+    padding-left:0;
+    position: fixed;
+    bottom:0;
+}
+
+.a span {
+    width:100%;
+    height:100%;
+    font-size:18px;
+}
+.container,
+.containerDeco,
+.containerMesBillets,
+.containerMonCompte,
+.containerMesAmis,
+.containerResSoc,
+.containerEnTete,
+.containerContenu {
+    text-align: center;
+    height: 50%;
+    position: relative;
+}
+.containerMesBillets {
+    background-color:#ef3e42;
+    border-top:0px;
+    border-bottom:1px;
+    border-right:1px;
+    border-left:0px;
+    border-style:solid;
+    border-color:white;
+}
+.containerResSoc {
+    background-color:#3a5897;
+    border-top:0px;
+    border-bottom:1px;
+    border-right:0px;
+    border-left:1px;
+    border-style:solid;
+    border-color:white;
+}
+.containerMesAmis {
+    background-color:#7ac4f7;
+    border-top:1px;
+    border-bottom:1px;
+    border-right:0px;
+    border-left:1px;
+    border-style:solid;
+    border-color:white;
+}
+.containerMonCompte {
+    background-color:#333333;
+    border-top:1px;
+    border-bottom:1px;
+    border-right:0px;
+    border-left:0px;
+    border-style:solid;
+    border-color:white;
+}
+.containerDeco {
+    background-color:#ef3e42;
+    border-top:1px;
+    border-bottom:0px;
+    border-right:0px;
+    border-left:0px;
+    border-style:solid;
+    border-color:white;
+}
+.left .container,
+.gauche .containerMesBillets,
+.droite .containerMesBillets,
+.gauche2 .containerMesBillets,
+.droite2 .containerMesBillets,
+.left .containerMesBillets,
+.ligne .container ,
+.ligne .containerDeco,
+.ligne .containerMonCompte,
+.ligne .containerEnTete,
+.ligne .containerContenu {
+    height: 100%;
+}
+.vertical-align-wrap {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+.vertical-align {
+    display: table-cell;
+}
+.vertical-align--top {
+  vertical-align: top;
+}
+.vertical-align--middle {
+    vertical-align: middle;
+}
+.vertical-align--bottom {
+  vertical-align: bottom;
+}
+ /**************************************************************************/
+ /***************************** mes boutons ********************************/
+ .list-block .item-link.list-button.color-red.rouge, .tabbar a.active.color-red.rouge, a.color-red.rouge{
+    background-color:#ef3e42;
+    color:#ffffff;
+}
+.list-block .item-link.list-button.color-red.vert, .tabbar a.active.color-red.vert, a.color-red.vert{
+    background-color:#3fc344;
+    color:#ffffff;
+}
+/***************************************************************************/
+/************************** mes zones de texte *****************************/
+.monTexte {
+    margin:0;
+    padding:10px;
+    background-color:#cfc9c9;
+    color:black;
+    text-align:justify;
+    font-size:13px;
+}
+.monTexte2 {
+    margin:0;
+    padding:20px;
+    background-color:#cfc9c9;
+    color:black;
+    text-align:justify;
+    font-size:13px;
+}
+/***************************************************************************/
+/********************** modif content-block ********************************/
+.content-block-title.monTitreDeBloc {
+    margin: 15px 15px 10px;
+    text-align:center;
+}
+.content-block.monTitreDeBlocBis {
+    margin: 0;
+    padding:15px;
+    background-color:#cfc9c9;
+    text-align:justify;
+    font-size:13px;
+    color:black;
+}
+/***************************************************************************/
+

@@ -1,0 +1,53 @@
+<!-- Top Navbar-->
+<div class="navbar">
+  <div class="navbar-inner">
+    <div class="left">
+      <a href="#" class="back link">
+        <i class="icon icon-back"></i>
+        <span>Retour</span>
+       </a>
+    </div>
+    <div class="center sliding">Vocabulaire en N</div>
+    <div class="right">
+      <a href="#" class="link icon-only open-panel"><i class="icon icon-bars"></i></a>
+    </div>
+  </div>
+</div>
+<div class="pages">
+  <div data-page="lettreN" class="page">
+    <div class="page-content">
+      <div class="content-block">
+
+
+
+          <p>Vous trouverez ici plus de 50000 définitions de médecine disponibles sans connexion internet. <br> <br> Elles sont éditées par l'<i>Académie Française de Médecine</i>  (http://dictionnaire.academie-medecine.fr/)  et nous les remercions pour leur aimable autorisation. Veuillez citer cette source à chaque utilisation.</p>
+          
+        </div>
+
+         <div class="content-block-title">Recherche</div>
+    <!-- Inset content block -->
+    <div class="content-block inset" style="height:190px;">
+    
+        <p style="color:black;"> Mot à chercher :</p>
+            <div style="position: relative; height: 80px;">
+              <input  type="text" name="country" id="autocomplete-ajax" style="position: absolute; z-index: 2; color: black;width:90%; font-size:19px;"/>
+              <input type="text" name="country" id="autocomplete-ajax-x" disabled="disabled" style="color: #CCC; position: absolute; background: transparent; z-index: 1;font-size:0px;"/>
+            </div>
+
+
+
+
+          </div>
+            <div class="content-block-title">Résultat</div>
+          <div class="content-block inset">
+         <div id="selction-ajax"></div>
+       </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="../build/autocomplete/scripts/jquery-1.8.2.min.js"></script>
+  <script type="text/javascript" src="../build/autocomplete/scripts/jquery.mockjax.js"></script>
+  <script type="text/javascript" src="../build/autocomplete/src/jquery.autocomplete.js"></script>
+  <script type="text/javascript" src="../build/autocomplete/scripts/countries.js"></script>
+  <script type="text/javascript" src="../build/autocomplete/scripts/demo.js"></script>
