@@ -428,6 +428,7 @@ i.icon.latmenu_medicaments {
      border-radius: 6px;
     background-image: url("../img/x2.png");
 }
+
 i.icon.latmenu_enveloppe {
     width: 35px;
     height: 35px;
@@ -474,6 +475,13 @@ i.icon.latmenu_medecin {
     width: 35px;
     height: 35px;
         border-radius: 6px;
+    background-image: url("../img/x10.png");
+}
+
+i.icon.latmenu_anat {
+    width: 35px;
+    height: 35px;
+    border-radius: 6px;
     background-image: url("../img/x10.png");
 }
 

@@ -12,6 +12,7 @@
  * 
  * Released on: July 18, 2015
  */
+ 
 (function () {
  
  
@@ -7581,8 +7582,8 @@
                 toolbar: true,
                 theme: 'light',
                 swipeToClose: true,
-                backLinkText: 'Close',
-                ofText: 'of',
+                backLinkText: 'Retour',
+                ofText: 'de',
                 loop: false,
                 lazyLoading: false,
                 lazyLoadingInPrevNext: false,

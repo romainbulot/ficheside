@@ -1,4 +1,3 @@
-
 // Option 1. Using page callback for page (for "about" page in this case) (recommended way):
 myApp.onPageInit('lettreA', function (page) {
 
